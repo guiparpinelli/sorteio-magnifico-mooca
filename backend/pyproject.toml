@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "sorteio-magnifico"
+version = "0.1.0"
+description = ""
+authors = ["guiparpinelli"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.66.0"
+SQLAlchemy = "^1.4.20"
+pydantic = "^1.8.2"
+uvicorn = "^0.14.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+black = { version = "*", allow-prereleases = true }
+
+[tool.black]
+line-length = 100
+target-version = ['py39']
+include = '\.pyi?$'
+exclude = ''
+
+[tool.pytest.ini_options]
+log_cli = true
+testpaths = [
+    "app/tests",
+]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
