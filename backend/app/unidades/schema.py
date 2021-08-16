@@ -1,11 +1,13 @@
-from pydantic import validator
+from pydantic import BaseModel, validator
 
-from app import schemas
 
 UM_A_SEIS = ("1", "2", "3", "4", "5", "6")
 
 
-class Unidade(schemas.OrmBase):
+class Unidade(BaseModel):
+    class Config:
+        orm_mode = True
+
     id: int
     numero: int
     dupla: bool

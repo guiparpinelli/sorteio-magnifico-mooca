@@ -7,12 +7,15 @@ authors = ["guiparpinelli"]
 [tool.poetry.dependencies]
 python = "^3.9"
 fastapi = "^0.66.0"
-SQLAlchemy = "^1.4.20"
+SQLAlchemy = "<1.4"
 pydantic = "^1.8.2"
 uvicorn = "^0.14.0"
+SQLAlchemy-Utils = "^0.37.8"
+requests = "^2.26.0"
+databases = "^0.4.3"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+pytest = "^6.0"
 black = { version = "*", allow-prereleases = true }
 
 [tool.black]
@@ -22,9 +25,11 @@ include = '\.pyi?$'
 exclude = ''
 
 [tool.pytest.ini_options]
+minversion = 6.0
+addopts = "-vv"
 log_cli = true
-testpaths = [
-    "app/tests",
+filterwarnings = [
+    "ignore::DeprecationWarning"
 ]
 
 [build-system]
