@@ -1,8 +1,8 @@
 from sqlalchemy import Column, Integer, Boolean, Enum, ForeignKey
 from sqlalchemy.orm import relationship
 
+from app.vagas.schemas import Pisos
 from app.db.session import Base
-from app.vagas import enums
 
 
 class Vaga(Base):
@@ -10,11 +10,11 @@ class Vaga(Base):
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     numero = Column(Integer, unique=True, nullable=False)
-    piso = Column(Enum(enums.Pisos))
+    piso = Column(Enum(Pisos))
     coberta = Column(Boolean)
     escriturada = Column(Boolean)
     dupla = Column(Boolean)
-    unidade_id = Column(Integer, ForeignKey("unidade.numero"))
+    unidade_id = Column(Integer, ForeignKey("unidades.numero"))
 
     unidade = relationship("Unidade", back_populates="vagas")
 
