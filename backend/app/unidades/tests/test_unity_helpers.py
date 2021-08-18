@@ -1,12 +1,11 @@
 from app.unidades import schemas
-from app.unidades.helpers import init_unidades, set_unidades_com_duas_vagas
+from app.unidades.helpers import set_unidades_com_duas_vagas
 
 
-def test_init_unidades_inicializa_unidades_validas_entre_11_e_276():
-    u = init_unidades()
-    assert isinstance(u, schemas.Unidades)
-    assert u.unidades[0].numero == 11
-    assert u.unidades[-1].numero == 276
+def test_init_unidades_inicializa_unidades_validas_entre_11_e_276(raw_unidades):
+    assert isinstance(raw_unidades, schemas.Unidades)
+    assert raw_unidades.unidades[0].numero == 11
+    assert raw_unidades.unidades[-1].numero == 276
 
 
 def test_set_duplas_retorna_false_para_aps_abaixo_do_110_ou_com_final_2_e_5():

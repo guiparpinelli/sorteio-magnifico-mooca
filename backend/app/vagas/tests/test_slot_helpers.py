@@ -1,12 +1,17 @@
 from app.vagas import schemas
 
 from app.vagas.helpers import (
-    init_vagas,
     set_vagas_cobertas,
     set_vagas_duplas,
     set_vagas_escrituradas,
     set_vagas_piso,
 )
+
+
+def test_init_vagas_inicializa_vagas_validas_entre_1_e_260(raw_vagas):
+    assert isinstance(raw_vagas, schemas.Vagas)
+    assert raw_vagas.vagas[0].numero == 1
+    assert raw_vagas.vagas[-1].numero == 260
 
 
 def test_set_vagas_escrituradas_retorna_true_se_o_numero_estiver_na_constante_escrituradas():
@@ -78,10 +83,3 @@ def test_set_vagas_piso_retorna_subsolo_se_numero_for_menor_que_216():
     T = ((100, "Subsolo"), (215, "Subsolo"), (216, "Terreo"))
     for test in T:
         assert set_vagas_piso(test[0]) == test[1], f"{test[0]} == {test[1]}"
-
-
-def test_init_vagas_inicializa_vagas_validas_entre_1_e_260():
-    u = init_vagas()
-    assert isinstance(u, schemas.Vagas)
-    assert u.vagas[0].numero == 1
-    assert u.vagas[-1].numero == 260

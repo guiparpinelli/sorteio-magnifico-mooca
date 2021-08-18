@@ -7,6 +7,8 @@ from fastapi.testclient import TestClient
 
 # from app import config as app_config
 from app.router import api_router
+from app.vagas.helpers import init_vagas
+from app.unidades.helpers import init_unidades
 
 
 # engine = create_engine(str(app_config.TEST_DATABASE_URL))
@@ -34,3 +36,15 @@ def api_client():
         yield client
 
     yield _make_client
+
+
+@pytest.fixture
+def raw_vagas():
+    v = init_vagas()
+    return v
+
+
+@pytest.fixture
+def raw_unidades():
+    u = init_unidades()
+    return u
