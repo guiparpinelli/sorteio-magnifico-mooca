@@ -2,9 +2,14 @@ import pytest
 
 from fastapi import FastAPI
 from fastapi.testclient import TestClient
+from sqlalchemy import create_engine, orm
 
+from app import config as app_config
 from app.router import api_router
-from app.tests.session import TestingSessionLocal
+
+
+engine = create_engine(str(app_config.TEST_DATABASE_URL))
+TestingSessionLocal = orm.sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 
 @pytest.fixture
