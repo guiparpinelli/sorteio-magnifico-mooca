@@ -1,10 +1,10 @@
-from app.unidades.schemas import Unidades
+from app.unidades import schemas
 from app.unidades.helpers import init_unidades, set_unidades_com_duas_vagas
 
 
 def test_init_unidades_inicializa_unidades_validas_entre_11_e_276():
     u = init_unidades()
-    assert isinstance(u, Unidades)
+    assert isinstance(u, schemas.Unidades)
     assert u.unidades[0].numero == 11
     assert u.unidades[-1].numero == 276
 

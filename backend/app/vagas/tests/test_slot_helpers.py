@@ -1,4 +1,4 @@
-from app.vagas.schemas import Vagas
+from app.vagas import schemas
 
 from app.vagas.helpers import (
     init_vagas,
@@ -82,6 +82,6 @@ def test_set_vagas_piso_retorna_subsolo_se_numero_for_menor_que_216():
 
 def test_init_vagas_inicializa_vagas_validas_entre_1_e_260():
     u = init_vagas()
-    assert isinstance(u, Vagas)
+    assert isinstance(u, schemas.Vagas)
     assert u.vagas[0].numero == 1
     assert u.vagas[-1].numero == 260
