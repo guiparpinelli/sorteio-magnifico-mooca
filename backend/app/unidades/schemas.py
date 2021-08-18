@@ -1,11 +1,21 @@
-from typing import List
-from pydantic import BaseModel
+from typing import List, Optional
+from pydantic import BaseModel, conlist
+
+from app.vagas import schemas
 
 
-class Unidade(BaseModel):
+class UnidadeBase(BaseModel):
     numero: int
-    dupla: bool
+    duas_vagas: bool
 
 
 class Unidades(BaseModel):
-    unidades: List[Unidade]
+    unidades: List[UnidadeBase]
+
+
+class Unidade(UnidadeBase):
+    class Config:
+        orm_mode = True
+
+    id: int
+    vagas: Optional[conlist(item_type=List[schemas.Vaga], max_items=2)]

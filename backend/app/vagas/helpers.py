@@ -15,7 +15,7 @@ VAGAS_UNICAS = frozenset(
 def init_vagas() -> schemas.Vagas:
     vagas = schemas.Vagas(
         vagas=[
-            schemas.Vaga(
+            schemas.VagaBase(
                 numero=num,
                 piso=set_vagas_piso(num),
                 coberta=set_vagas_cobertas(num),

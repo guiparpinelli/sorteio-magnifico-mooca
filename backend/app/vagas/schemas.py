@@ -8,7 +8,7 @@ class Pisos(Enum):
     Terreo = "Terreo"
 
 
-class Vaga(BaseModel):
+class VagaBase(BaseModel):
     numero: int
     piso: Pisos
     coberta: bool
@@ -17,4 +17,12 @@ class Vaga(BaseModel):
 
 
 class Vagas(BaseModel):
-    vagas: List[Vaga]
+    vagas: List[VagaBase]
+
+
+class Vaga(VagaBase):
+    class Config:
+        orm_mode = True
+
+    id: int
+    usuario: int
