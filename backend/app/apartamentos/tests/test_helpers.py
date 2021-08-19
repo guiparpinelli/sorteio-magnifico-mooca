@@ -4,8 +4,8 @@ from app.apartamentos.helpers import set_apartamento_com_duas_vagas
 
 def test_init_apartamentos_inicializa_aps_validos_entre_11_e_276(raw_apartamentos):
     assert isinstance(raw_apartamentos, schemas.Apartamentos)
-    assert raw_apartamentos.unidades[0].numero == 11
-    assert raw_apartamentos.unidades[-1].numero == 276
+    assert raw_apartamentos.apartamentos[0].numero == 11
+    assert raw_apartamentos.apartamentos[-1].numero == 276
 
 
 def test_set_duplas_retorna_false_para_aps_abaixo_do_110_ou_com_final_2_e_5():

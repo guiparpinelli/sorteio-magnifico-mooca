@@ -10,7 +10,7 @@ class ApartamentoBase(BaseModel):
 
 
 class Apartamentos(BaseModel):
-    unidades: List[ApartamentoBase]
+    apartamentos: List[ApartamentoBase]
 
 
 class Apartamento(ApartamentoBase):

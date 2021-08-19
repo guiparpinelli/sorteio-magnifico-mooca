@@ -3,13 +3,13 @@ from app.apartamentos import schemas
 
 
 def get_aparamentos() -> schemas.ApartamentoBase:
-    unidades = schemas.Apartamentos(
-        unidades=[
+    aps = schemas.Apartamentos(
+        apartamentos=[
             schemas.ApartamentoBase(numero=ap, duas_vagas=set_apartamento_com_duas_vagas(ap))
             for ap in constants.NUM_APARTAMENTOS
         ]
     )
-    return unidades
+    return aps
 
 
 def set_apartamento_com_duas_vagas(ap: int) -> bool:
