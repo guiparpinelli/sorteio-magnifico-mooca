@@ -7,8 +7,8 @@ from fastapi.testclient import TestClient
 
 # from app import config as app_config
 from app.router import api_router
-from app.vagas.helpers import init_vagas
-from app.unidades.helpers import init_unidades
+from app.vagas.helpers import get_vagas
+from app.apartamentos.helpers import get_aparamentos
 
 
 # engine = create_engine(str(app_config.TEST_DATABASE_URL))
@@ -40,11 +40,11 @@ def api_client():
 
 @pytest.fixture
 def raw_vagas():
-    v = init_vagas()
+    v = get_vagas()
     return v
 
 
 @pytest.fixture
-def raw_unidades():
-    u = init_unidades()
-    return u
+def raw_apartamentos():
+    a = get_aparamentos()
+    return a
