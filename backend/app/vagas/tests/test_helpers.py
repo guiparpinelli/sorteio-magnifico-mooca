@@ -1,5 +1,3 @@
-from app.vagas import schemas
-
 from app.vagas.helpers import (
     set_vagas_cobertas,
     set_vagas_duplas,
@@ -15,9 +13,8 @@ from app.vagas.helpers import (
 
 
 def test_init_vagas_inicializa_vagas_validas_entre_1_e_260(raw_vagas):
-    assert isinstance(raw_vagas, schemas.Vagas)
-    assert raw_vagas.vagas[0].numero == 1
-    assert raw_vagas.vagas[-1].numero == 260
+    assert raw_vagas[0].numero == 1
+    assert raw_vagas[-1].numero == 260
 
 
 def test_set_vagas_escrituradas_retorna_true_se_o_numero_estiver_na_constante_escrituradas():
@@ -92,32 +89,32 @@ def test_set_vagas_piso_retorna_subsolo_se_numero_for_menor_que_216():
 
 
 def test_sorteio_get_vagas_duplas_retorna_apenas_vagas_duplas(raw_vagas):
-    vagas_duplas = list(filter(lambda x: x.dupla, raw_vagas.vagas))
-    assert get_vagas_duplas(raw_vagas.vagas) == vagas_duplas
+    vagas_duplas = list(filter(lambda x: x.dupla, raw_vagas))
+    assert get_vagas_duplas(raw_vagas) == vagas_duplas
 
 
 def test_sorteio_get_vagas_cobertas_retorna_apenas_vagas_cobertas(raw_vagas):
-    vagas_cobertas = list(filter(lambda x: x.coberta, raw_vagas.vagas))
-    assert get_vagas_cobertas(raw_vagas.vagas) == vagas_cobertas
+    vagas_cobertas = list(filter(lambda x: x.coberta, raw_vagas))
+    assert get_vagas_cobertas(raw_vagas) == vagas_cobertas
 
 
 def test_sorteio_get_vagas_descobertas_retorna_apenas_vagas_descobertas(raw_vagas):
-    vagas_descobertas = list(filter(lambda x: not x.coberta, raw_vagas.vagas))
-    assert get_vagas_descobertas(raw_vagas.vagas) == vagas_descobertas
+    vagas_descobertas = list(filter(lambda x: not x.coberta, raw_vagas))
+    assert get_vagas_descobertas(raw_vagas) == vagas_descobertas
 
 
 def test_sorteio_get_vagas_duplas_cobertas_retorna_vagas_duplas_e_cobertas(raw_vagas):
-    vagas_duplas_e_cobertas = list(filter(lambda x: x.dupla and x.coberta, raw_vagas.vagas))
-    assert get_vagas_duplas_cobertas(raw_vagas.vagas) == vagas_duplas_e_cobertas
+    vagas_duplas_e_cobertas = list(filter(lambda x: x.dupla and x.coberta, raw_vagas))
+    assert get_vagas_duplas_cobertas(raw_vagas) == vagas_duplas_e_cobertas
 
 
 def test_sorteio_get_vagas_duplas_descobertas_retorna_vagas_duplas_e_descobertas(raw_vagas):
-    vagas_duplas_e_descobertas = list(filter(lambda x: x.dupla and not x.coberta, raw_vagas.vagas))
-    assert get_vagas_duplas_descobertas(raw_vagas.vagas) == vagas_duplas_e_descobertas
+    vagas_duplas_e_descobertas = list(filter(lambda x: x.dupla and not x.coberta, raw_vagas))
+    assert get_vagas_duplas_descobertas(raw_vagas) == vagas_duplas_e_descobertas
 
 
 def test_sorteio_get_index_vaga_vizinha_retorna_index_vaga_vizinha_para_vagas_duplas(raw_vagas):
-    vagas_duplas = list(filter(lambda x: x.dupla, raw_vagas.vagas))
+    vagas_duplas = list(filter(lambda x: x.dupla, raw_vagas))
     T = (
         (vagas_duplas[0], 0, vagas_duplas[1]),
         (vagas_duplas[1], 1, vagas_duplas[0]),

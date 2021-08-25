@@ -1,11 +1,9 @@
-from app.apartamentos import schemas
 from app.apartamentos.helpers import set_apartamento_com_duas_vagas, get_aps_duas_vagas
 
 
 def test_init_apartamentos_inicializa_aps_validos_entre_11_e_276(raw_apartamentos):
-    assert isinstance(raw_apartamentos, schemas.Apartamentos)
-    assert raw_apartamentos.apartamentos[0].numero == 11
-    assert raw_apartamentos.apartamentos[-1].numero == 276
+    assert raw_apartamentos[0].numero == 11
+    assert raw_apartamentos[-1].numero == 276
 
 
 def test_set_duplas_retorna_false_para_aps_abaixo_do_110_ou_com_final_2_e_5():
@@ -29,5 +27,5 @@ def test_set_duplas_retorna_false_para_aps_abaixo_do_110_ou_com_final_2_e_5():
 
 
 def test_sorteio_get_aps_duas_vagas_retorna_aps_com_direito_a_duas_vagas(raw_apartamentos):
-    aps_duas_vagas = list(filter(lambda x: x.duas_vagas, raw_apartamentos.apartamentos))
-    assert get_aps_duas_vagas(raw_apartamentos.apartamentos) == aps_duas_vagas
+    aps_duas_vagas = list(filter(lambda x: x.duas_vagas, raw_apartamentos))
+    assert get_aps_duas_vagas(raw_apartamentos) == aps_duas_vagas

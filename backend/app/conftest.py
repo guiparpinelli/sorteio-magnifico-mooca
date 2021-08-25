@@ -25,10 +25,10 @@ def api_client():
 @pytest.fixture
 def raw_vagas():
     v = init_vagas()
-    return v
+    return v.vagas
 
 
 @pytest.fixture
 def raw_apartamentos():
     a = init_aparamentos()
-    return a
+    return a.apartamentos
