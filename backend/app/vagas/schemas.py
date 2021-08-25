@@ -1,8 +1,6 @@
 from enum import Enum
 from typing import List
-from pydantic import BaseModel, validator
-
-from app import constants
+from pydantic import BaseModel
 
 
 class Pisos(Enum):
@@ -10,7 +8,7 @@ class Pisos(Enum):
     Terreo = "Terreo"
 
 
-class VagaBase(BaseModel):
+class Vaga(BaseModel):
     numero: int
     piso: Pisos
     coberta: bool
@@ -19,18 +17,4 @@ class VagaBase(BaseModel):
 
 
 class Vagas(BaseModel):
-    vagas: List[VagaBase]
-
-
-class Vaga(VagaBase):
-    class Config:
-        orm_mode = True
-
-    id: int
-    usuario: int
-
-    @validator("usuario", always=True)
-    def usuario_existe(cls, v):
-        if v not in constants.NUM_APARTAMENTOS:
-            raise ValueError("Número de apartamento inválido")
-        return v
+    vagas: List[Vaga]

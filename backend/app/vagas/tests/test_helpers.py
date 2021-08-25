@@ -5,6 +5,12 @@ from app.vagas.helpers import (
     set_vagas_duplas,
     set_vagas_escrituradas,
     set_vagas_piso,
+    get_vagas_cobertas,
+    get_vagas_descobertas,
+    get_vagas_duplas,
+    get_vagas_duplas_cobertas,
+    get_vagas_duplas_descobertas,
+    get_index_vaga_vizinha,
 )
 
 
@@ -83,3 +89,42 @@ def test_set_vagas_piso_retorna_subsolo_se_numero_for_menor_que_216():
     T = ((100, "Subsolo"), (215, "Subsolo"), (216, "Terreo"))
     for test in T:
         assert set_vagas_piso(test[0]) == test[1], f"{test[0]} == {test[1]}"
+
+
+def test_sorteio_get_vagas_duplas_retorna_apenas_vagas_duplas(raw_vagas):
+    vagas_duplas = list(filter(lambda x: x.dupla, raw_vagas.vagas))
+    assert get_vagas_duplas(raw_vagas.vagas) == vagas_duplas
+
+
+def test_sorteio_get_vagas_cobertas_retorna_apenas_vagas_cobertas(raw_vagas):
+    vagas_cobertas = list(filter(lambda x: x.coberta, raw_vagas.vagas))
+    assert get_vagas_cobertas(raw_vagas.vagas) == vagas_cobertas
+
+
+def test_sorteio_get_vagas_descobertas_retorna_apenas_vagas_descobertas(raw_vagas):
+    vagas_descobertas = list(filter(lambda x: not x.coberta, raw_vagas.vagas))
+    assert get_vagas_descobertas(raw_vagas.vagas) == vagas_descobertas
+
+
+def test_sorteio_get_vagas_duplas_cobertas_retorna_vagas_duplas_e_cobertas(raw_vagas):
+    vagas_duplas_e_cobertas = list(filter(lambda x: x.dupla and x.coberta, raw_vagas.vagas))
+    assert get_vagas_duplas_cobertas(raw_vagas.vagas) == vagas_duplas_e_cobertas
+
+
+def test_sorteio_get_vagas_duplas_descobertas_retorna_vagas_duplas_e_descobertas(raw_vagas):
+    vagas_duplas_e_descobertas = list(filter(lambda x: x.dupla and not x.coberta, raw_vagas.vagas))
+    assert get_vagas_duplas_descobertas(raw_vagas.vagas) == vagas_duplas_e_descobertas
+
+
+def test_sorteio_get_index_vaga_vizinha_retorna_index_vaga_vizinha_para_vagas_duplas(raw_vagas):
+    vagas_duplas = list(filter(lambda x: x.dupla, raw_vagas.vagas))
+    T = (
+        (vagas_duplas[0], 0, vagas_duplas[1]),
+        (vagas_duplas[1], 1, vagas_duplas[0]),
+        (vagas_duplas[43], 43, vagas_duplas[42]),
+        (vagas_duplas[89], 89, vagas_duplas[88]),
+        (vagas_duplas[90], 90, vagas_duplas[91]),
+    )
+    for test in T:
+        index_vizinha = get_index_vaga_vizinha(test[0], test[1])
+        assert vagas_duplas[index_vizinha] == test[2], f"Vaga: {test[0]} | Vizinha: {test[2]}"

@@ -2,10 +2,10 @@ from app import constants
 from app.vagas import schemas
 
 
-def get_vagas() -> schemas.Vagas:
+def init_vagas() -> schemas.Vagas:
     vagas = schemas.Vagas(
         vagas=[
-            schemas.VagaBase(
+            schemas.Vaga(
                 numero=num,
                 piso=set_vagas_piso(num),
                 coberta=set_vagas_cobertas(num),
@@ -32,3 +32,28 @@ def set_vagas_duplas(numero: int) -> bool:
 
 def set_vagas_piso(numero: int) -> bool:
     return "Subsolo" if numero < 216 else "Terreo"
+
+
+def get_vagas_duplas(vagas: schemas.Vagas) -> schemas.Vagas:
+    return list(filter(lambda x: x.dupla, vagas))
+
+
+def get_vagas_cobertas(vagas: schemas.Vagas) -> schemas.Vagas:
+    return list(filter(lambda x: x.coberta, vagas))
+
+
+def get_vagas_descobertas(vagas: schemas.Vagas) -> schemas.Vagas:
+    return list(filter(lambda x: not x.coberta, vagas))
+
+
+def get_vagas_duplas_cobertas(vagas: schemas.Vagas) -> schemas.Vagas:
+    return list(filter(lambda x: x.dupla and x.coberta, vagas))
+
+
+def get_vagas_duplas_descobertas(vagas: schemas.Vagas) -> schemas.Vagas:
+    return list(filter(lambda x: x.dupla and not x.coberta, vagas))
+
+
+def get_index_vaga_vizinha(vaga: schemas.Vaga, index: int) -> int:
+    dif = 1 if (vaga.numero < 48 or vaga.numero > 95) else -1
+    return (index - dif) if vaga.numero % 2 == 0 else (index + dif)
