@@ -1,3 +1,4 @@
+from app.vagas.enumerators import Pisos
 from app.vagas.helpers import (
     set_vagas_cobertas,
     set_vagas_duplas,
@@ -83,7 +84,7 @@ def test_set_vagas_duplas_retorna_true_se_numero_nao_estiver_na_constante_vagas_
 
 
 def test_set_vagas_piso_retorna_subsolo_se_numero_for_menor_que_216():
-    T = ((100, "Subsolo"), (215, "Subsolo"), (216, "Terreo"))
+    T = ((100, Pisos.SUBSOLO), (215, Pisos.SUBSOLO), (216, Pisos.TERREO))
     for test in T:
         assert set_vagas_piso(test[0]) == test[1], f"{test[0]} == {test[1]}"
 

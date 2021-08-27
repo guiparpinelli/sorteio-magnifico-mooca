@@ -1,5 +1,6 @@
 from app import constants
 from app.vagas import schemas
+from app.vagas.enumerators import Pisos
 
 
 def init_vagas() -> schemas.Vagas:
@@ -31,7 +32,7 @@ def set_vagas_duplas(numero: int) -> bool:
 
 
 def set_vagas_piso(numero: int) -> bool:
-    return "Subsolo" if numero < 216 else "Terreo"
+    return Pisos.SUBSOLO if numero < 216 else Pisos.TERREO
 
 
 def get_vagas_duplas(vagas: schemas.Vagas) -> schemas.Vagas:

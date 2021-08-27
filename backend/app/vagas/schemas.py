@@ -1,11 +1,7 @@
-from enum import Enum
 from typing import List
 from pydantic import BaseModel
 
-
-class Pisos(Enum):
-    Subsolo = "Subsolo"
-    Terreo = "Terreo"
+from app.vagas.enumerators import Pisos
 
 
 class Vaga(BaseModel):
