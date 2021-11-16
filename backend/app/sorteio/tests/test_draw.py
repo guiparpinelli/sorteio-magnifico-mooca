@@ -1,14 +1,6 @@
-from app.sorteio.draw import Sorteio
-
-s = Sorteio()
+from app.sorteio.draw import get_par_de_vagas
 
 
-def test_sorteio_inicializa_listas_vazias():
-    assert s._resultado == []
-    assert s._vagas_disponiveis == []
-
-
-# def test_foo(raw_vagas):
-#     vagas_duplas = list(filter(lambda x: x.dupla, raw_vagas.vagas))
-#     for _ in vagas_duplas:
-#         resultado, idxs = s.sortear_duplas(vagas_duplas)
+def test_foo(raw_vagas):
+    """Testa se a função retorna o par de vagas correto."""
+    vagas_duplas = list(filter(lambda x: x.dupla, raw_vagas))
