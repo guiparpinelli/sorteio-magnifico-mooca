@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "sorteio-magnifico"
+name = "magnifico"
 version = "0.1.0"
 description = ""
 authors = ["guiparpinelli"]
@@ -7,15 +7,15 @@ authors = ["guiparpinelli"]
 [tool.poetry.dependencies]
 python = "^3.9"
 fastapi = "^0.66.0"
-SQLAlchemy = "<1.4"
 pydantic = "^1.8.2"
 uvicorn = "^0.14.0"
-SQLAlchemy-Utils = "^0.37.8"
 requests = "^2.26.0"
+tinydb = "^4.5.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.0"
 black = { version = "*", allow-prereleases = true }
+flake8 = "^4.0.1"
 
 [tool.black]
 line-length = 100
@@ -26,9 +26,6 @@ exclude = ''
 [tool.pytest.ini_options]
 minversion = 6.0
 log_cli = true
-filterwarnings = [
-    "ignore::DeprecationWarning"
-]
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
