@@ -1,0 +1,2084 @@
+{
+  "vagas": {
+    "1": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 1,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 2
+    },
+    "10": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 10,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 9
+    },
+    "100": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 100,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 99
+    },
+    "101": {
+      "dupla": false,
+      "escriturada": true,
+      "numero": 101,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 102
+    },
+    "102": {
+      "dupla": false,
+      "escriturada": true,
+      "numero": 102,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 101
+    },
+    "103": {
+      "dupla": false,
+      "escriturada": true,
+      "numero": 103,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 104
+    },
+    "104": {
+      "dupla": false,
+      "escriturada": true,
+      "numero": 104,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 103
+    },
+    "105": {
+      "dupla": false,
+      "escriturada": true,
+      "numero": 105,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 106
+    },
+    "106": {
+      "dupla": false,
+      "escriturada": true,
+      "numero": 106,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 105
+    },
+    "107": {
+      "dupla": false,
+      "escriturada": true,
+      "numero": 107,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 108
+    },
+    "108": {
+      "dupla": false,
+      "escriturada": true,
+      "numero": 108,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 107
+    },
+    "109": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 109,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 110
+    },
+    "11": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 11,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 12
+    },
+    "110": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 110,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 109
+    },
+    "111": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 111,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 112
+    },
+    "112": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 112,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 111
+    },
+    "113": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 113,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 114
+    },
+    "114": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 114,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 113
+    },
+    "115": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 115,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 116
+    },
+    "116": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 116,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 115
+    },
+    "117": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 117,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 118
+    },
+    "118": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 118,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 117
+    },
+    "119": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 119,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 120
+    },
+    "12": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 12,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 11
+    },
+    "120": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 120,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 119
+    },
+    "121": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 121,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 122
+    },
+    "122": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 122,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 121
+    },
+    "123": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 123,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 124
+    },
+    "124": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 124,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 123
+    },
+    "125": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 125,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 126
+    },
+    "126": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 126,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 125
+    },
+    "127": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 127,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 128
+    },
+    "128": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 128,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 127
+    },
+    "129": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 129,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 130
+    },
+    "13": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 13,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 14
+    },
+    "130": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 130,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 129
+    },
+    "131": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 131,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 132
+    },
+    "132": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 132,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 131
+    },
+    "133": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 133,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 134
+    },
+    "134": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 134,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 133
+    },
+    "135": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 135,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 136
+    },
+    "136": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 136,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 135
+    },
+    "137": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 137,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 138
+    },
+    "138": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 138,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 137
+    },
+    "139": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 139,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 140
+    },
+    "14": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 14,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 13
+    },
+    "140": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 140,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 139
+    },
+    "141": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 141,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 142
+    },
+    "142": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 142,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 141
+    },
+    "143": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 143,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 144
+    },
+    "144": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 144,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 143
+    },
+    "145": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 145,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 146
+    },
+    "146": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 146,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 145
+    },
+    "147": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 147,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 148
+    },
+    "148": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 148,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 147
+    },
+    "149": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 149,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 150
+    },
+    "15": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 15,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 16
+    },
+    "150": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 150,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 149
+    },
+    "151": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 151,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 152
+    },
+    "152": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 152,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 151
+    },
+    "153": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 153,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 154
+    },
+    "154": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 154,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 153
+    },
+    "155": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 155,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 156
+    },
+    "156": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 156,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 155
+    },
+    "157": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 157,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 158
+    },
+    "158": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 158,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 157
+    },
+    "159": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 159,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 160
+    },
+    "16": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 16,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 15
+    },
+    "160": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 160,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 159
+    },
+    "161": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 161,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 162
+    },
+    "162": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 162,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 161
+    },
+    "163": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 163,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 164
+    },
+    "164": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 164,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 163
+    },
+    "165": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 165,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 166
+    },
+    "166": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 166,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 165
+    },
+    "167": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 167,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 168
+    },
+    "168": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 168,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 167
+    },
+    "169": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 169,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 170
+    },
+    "17": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 17,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 18
+    },
+    "170": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 170,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 169
+    },
+    "171": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 171,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 172
+    },
+    "172": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 172,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 171
+    },
+    "173": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 173,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 174
+    },
+    "174": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 174,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 173
+    },
+    "175": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 175,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 176
+    },
+    "176": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 176,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 175
+    },
+    "177": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 177,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 178
+    },
+    "178": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 178,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 177
+    },
+    "179": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 179,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 180
+    },
+    "18": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 18,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 17
+    },
+    "180": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 180,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 179
+    },
+    "181": {
+      "dupla": false,
+      "escriturada": true,
+      "numero": 181,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 182
+    },
+    "182": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 182,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 181
+    },
+    "183": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 183,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 184
+    },
+    "184": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 184,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 183
+    },
+    "185": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 185,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 186
+    },
+    "186": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 186,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 185
+    },
+    "187": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 187,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 188
+    },
+    "188": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 188,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 187
+    },
+    "189": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 189,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 190
+    },
+    "19": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 19,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 20
+    },
+    "190": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 190,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 189
+    },
+    "191": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 191,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 192
+    },
+    "192": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 192,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 191
+    },
+    "193": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 193,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 194
+    },
+    "194": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 194,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 193
+    },
+    "195": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 195,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 196
+    },
+    "196": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 196,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 195
+    },
+    "197": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 197,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 198
+    },
+    "198": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 198,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 197
+    },
+    "199": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 199,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 200
+    },
+    "2": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 2,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 1
+    },
+    "20": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 20,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 19
+    },
+    "200": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 200,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 199
+    },
+    "201": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 201,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 202
+    },
+    "202": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 202,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 201
+    },
+    "203": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 203,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 204
+    },
+    "204": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 204,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 203
+    },
+    "205": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 205,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 206
+    },
+    "206": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 206,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 205
+    },
+    "207": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 207,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 208
+    },
+    "208": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 208,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 207
+    },
+    "209": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 209,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 210
+    },
+    "21": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 21,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 22
+    },
+    "210": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 210,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 209
+    },
+    "211": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 211,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 212
+    },
+    "212": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 212,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 211
+    },
+    "213": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 213,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 214
+    },
+    "214": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 214,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 213
+    },
+    "215": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 215,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 216
+    },
+    "216": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 216,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 215
+    },
+    "217": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 217,
+      "piso": "Terreo",
+      "tipo": "Descoberta",
+      "vizinha": 218
+    },
+    "218": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 218,
+      "piso": "Terreo",
+      "tipo": "Descoberta",
+      "vizinha": 217
+    },
+    "219": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 219,
+      "piso": "Terreo",
+      "tipo": "Descoberta",
+      "vizinha": 220
+    },
+    "22": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 22,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 21
+    },
+    "220": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 220,
+      "piso": "Terreo",
+      "tipo": "Descoberta",
+      "vizinha": 219
+    },
+    "221": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 221,
+      "piso": "Terreo",
+      "tipo": "Descoberta",
+      "vizinha": 222
+    },
+    "222": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 222,
+      "piso": "Terreo",
+      "tipo": "Descoberta",
+      "vizinha": 221
+    },
+    "223": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 223,
+      "piso": "Terreo",
+      "tipo": "Descoberta",
+      "vizinha": 224
+    },
+    "224": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 224,
+      "piso": "Terreo",
+      "tipo": "Descoberta",
+      "vizinha": 223
+    },
+    "225": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 225,
+      "piso": "Terreo",
+      "tipo": "Descoberta",
+      "vizinha": 226
+    },
+    "226": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 226,
+      "piso": "Terreo",
+      "tipo": "Descoberta",
+      "vizinha": 225
+    },
+    "227": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 227,
+      "piso": "Terreo",
+      "tipo": "Descoberta",
+      "vizinha": 228
+    },
+    "228": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 228,
+      "piso": "Terreo",
+      "tipo": "Descoberta",
+      "vizinha": 227
+    },
+    "229": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 229,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 230
+    },
+    "23": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 23,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 24
+    },
+    "230": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 230,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 229
+    },
+    "231": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 231,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 232
+    },
+    "232": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 232,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 231
+    },
+    "233": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 233,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 234
+    },
+    "234": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 234,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 233
+    },
+    "235": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 235,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 236
+    },
+    "236": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 236,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 235
+    },
+    "237": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 237,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 238
+    },
+    "238": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 238,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 237
+    },
+    "239": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 239,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 240
+    },
+    "24": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 24,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 23
+    },
+    "240": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 240,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 239
+    },
+    "241": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 241,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 242
+    },
+    "242": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 242,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 241
+    },
+    "243": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 243,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 244
+    },
+    "244": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 244,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 243
+    },
+    "245": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 245,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 246
+    },
+    "246": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 246,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 245
+    },
+    "247": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 247,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 248
+    },
+    "248": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 248,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 247
+    },
+    "249": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 249,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 250
+    },
+    "25": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 25,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 26
+    },
+    "250": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 250,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 249
+    },
+    "251": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 251,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 252
+    },
+    "252": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 252,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 251
+    },
+    "253": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 253,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 254
+    },
+    "254": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 254,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 253
+    },
+    "255": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 255,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 256
+    },
+    "256": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 256,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 255
+    },
+    "257": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 257,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 258
+    },
+    "258": {
+      "dupla": true,
+      "escriturada": true,
+      "numero": 258,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 257
+    },
+    "259": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 259,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 260
+    },
+    "26": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 26,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 25
+    },
+    "260": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 260,
+      "piso": "Terreo",
+      "tipo": "Coberta",
+      "vizinha": 259
+    },
+    "27": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 27,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 28
+    },
+    "28": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 28,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 27
+    },
+    "29": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 29,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 30
+    },
+    "3": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 3,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 4
+    },
+    "30": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 30,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 29
+    },
+    "31": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 31,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 32
+    },
+    "32": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 32,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 31
+    },
+    "33": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 33,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 34
+    },
+    "34": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 34,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 33
+    },
+    "35": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 35,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 36
+    },
+    "36": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 36,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 35
+    },
+    "37": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 37,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 38
+    },
+    "38": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 38,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 37
+    },
+    "39": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 39,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 40
+    },
+    "4": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 4,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 3
+    },
+    "40": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 40,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 39
+    },
+    "41": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 41,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 42
+    },
+    "42": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 42,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 41
+    },
+    "43": {
+      "dupla": false,
+      "escriturada": true,
+      "numero": 43,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 44
+    },
+    "44": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 44,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 43
+    },
+    "45": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 45,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 46
+    },
+    "46": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 46,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 45
+    },
+    "47": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 47,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 48
+    },
+    "48": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 48,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 49
+    },
+    "49": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 49,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 48
+    },
+    "5": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 5,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 6
+    },
+    "50": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 50,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 51
+    },
+    "51": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 51,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 50
+    },
+    "52": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 52,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 53
+    },
+    "53": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 53,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 52
+    },
+    "54": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 54,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 55
+    },
+    "55": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 55,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 54
+    },
+    "56": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 56,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 57
+    },
+    "57": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 57,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 56
+    },
+    "58": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 58,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 59
+    },
+    "59": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 59,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 58
+    },
+    "6": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 6,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 5
+    },
+    "60": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 60,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 61
+    },
+    "61": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 61,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 60
+    },
+    "62": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 62,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 63
+    },
+    "63": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 63,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 62
+    },
+    "64": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 64,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 65
+    },
+    "65": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 65,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 64
+    },
+    "66": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 66,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 67
+    },
+    "67": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 67,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 66
+    },
+    "68": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 68,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 69
+    },
+    "69": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 69,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 68
+    },
+    "7": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 7,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 8
+    },
+    "70": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 70,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 71
+    },
+    "71": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 71,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 70
+    },
+    "72": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 72,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 73
+    },
+    "73": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 73,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 72
+    },
+    "74": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 74,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 75
+    },
+    "75": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 75,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 74
+    },
+    "76": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 76,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 77
+    },
+    "77": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 77,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 76
+    },
+    "78": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 78,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 79
+    },
+    "79": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 79,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 78
+    },
+    "8": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 8,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 7
+    },
+    "80": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 80,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 81
+    },
+    "81": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 81,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 80
+    },
+    "82": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 82,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 83
+    },
+    "83": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 83,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 82
+    },
+    "84": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 84,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 85
+    },
+    "85": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 85,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 84
+    },
+    "86": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 86,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 87
+    },
+    "87": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 87,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 86
+    },
+    "88": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 88,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 89
+    },
+    "89": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 89,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 88
+    },
+    "9": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 9,
+      "piso": "Subsolo",
+      "tipo": "Coberta",
+      "vizinha": 10
+    },
+    "90": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 90,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 91
+    },
+    "91": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 91,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 90
+    },
+    "92": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 92,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 93
+    },
+    "93": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 93,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 92
+    },
+    "94": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 94,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 95
+    },
+    "95": {
+      "dupla": true,
+      "escriturada": false,
+      "numero": 95,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 94
+    },
+    "96": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 96,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 95
+    },
+    "97": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 97,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 98
+    },
+    "98": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 98,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 97
+    },
+    "99": {
+      "dupla": false,
+      "escriturada": false,
+      "numero": 99,
+      "piso": "Subsolo",
+      "tipo": "Descoberta",
+      "vizinha": 100
+    }
+  }
+}
