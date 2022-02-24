@@ -1,0 +1,2455 @@
+{
+  "sorteios": {
+    "1": {
+      "ano": 2021,
+      "resultado": [
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 11
+          },
+          "vagas": [
+            {
+              "numero": 145,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 12
+          },
+          "vagas": [
+            {
+              "numero": 233,
+              "piso": "Terreo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 13
+          },
+          "vagas": [
+            {
+              "numero": 45,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 14
+          },
+          "vagas": [
+            {
+              "numero": 118,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 15
+          },
+          "vagas": [
+            {
+              "numero": 113,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 16
+          },
+          "vagas": [
+            {
+              "numero": 257,
+              "piso": "Terreo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 21
+          },
+          "vagas": [
+            {
+              "numero": 24,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 22
+          },
+          "vagas": [
+            {
+              "numero": 231,
+              "piso": "Terreo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 23
+          },
+          "vagas": [
+            {
+              "numero": 166,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 24
+          },
+          "vagas": [
+            {
+              "numero": 33,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 25
+          },
+          "vagas": [
+            {
+              "numero": 153,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 26
+          },
+          "vagas": [
+            {
+              "numero": 39,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 31
+          },
+          "vagas": [
+            {
+              "numero": 5,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 32
+          },
+          "vagas": [
+            {
+              "numero": 167,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 33
+          },
+          "vagas": [
+            {
+              "numero": 191,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 34
+          },
+          "vagas": [
+            {
+              "numero": 204,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 35
+          },
+          "vagas": [
+            {
+              "numero": 44,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 36
+          },
+          "vagas": [
+            {
+              "numero": 211,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 41
+          },
+          "vagas": [
+            {
+              "numero": 146,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 42
+          },
+          "vagas": [
+            {
+              "numero": 96,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 43
+          },
+          "vagas": [
+            {
+              "numero": 23,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 44
+          },
+          "vagas": [
+            {
+              "numero": 193,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 45
+          },
+          "vagas": [
+            {
+              "numero": 163,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 46
+          },
+          "vagas": [
+            {
+              "numero": 40,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 51
+          },
+          "vagas": [
+            {
+              "numero": 151,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 52
+          },
+          "vagas": [
+            {
+              "numero": 195,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 53
+          },
+          "vagas": [
+            {
+              "numero": 100,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 54
+          },
+          "vagas": [
+            {
+              "numero": 152,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 55
+          },
+          "vagas": [
+            {
+              "numero": 132,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 56
+          },
+          "vagas": [
+            {
+              "numero": 32,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 61
+          },
+          "vagas": [
+            {
+              "numero": 154,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 62
+          },
+          "vagas": [
+            {
+              "numero": 227,
+              "piso": "Terreo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 63
+          },
+          "vagas": [
+            {
+              "numero": 260,
+              "piso": "Terreo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 64
+          },
+          "vagas": [
+            {
+              "numero": 207,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 65
+          },
+          "vagas": [
+            {
+              "numero": 176,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 66
+          },
+          "vagas": [
+            {
+              "numero": 180,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 71
+          },
+          "vagas": [
+            {
+              "numero": 123,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 72
+          },
+          "vagas": [
+            {
+              "numero": 168,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 73
+          },
+          "vagas": [
+            {
+              "numero": 98,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 74
+          },
+          "vagas": [
+            {
+              "numero": 197,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 75
+          },
+          "vagas": [
+            {
+              "numero": 196,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 76
+          },
+          "vagas": [
+            {
+              "numero": 10,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 81
+          },
+          "vagas": [
+            {
+              "numero": 97,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 82
+          },
+          "vagas": [
+            {
+              "numero": 198,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 83
+          },
+          "vagas": [
+            {
+              "numero": 259,
+              "piso": "Terreo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 84
+          },
+          "vagas": [
+            {
+              "numero": 37,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 85
+          },
+          "vagas": [
+            {
+              "numero": 235,
+              "piso": "Terreo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 86
+          },
+          "vagas": [
+            {
+              "numero": 34,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 91
+          },
+          "vagas": [
+            {
+              "numero": 31,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 92
+          },
+          "vagas": [
+            {
+              "numero": 155,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 93
+          },
+          "vagas": [
+            {
+              "numero": 206,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 94
+          },
+          "vagas": [
+            {
+              "numero": 6,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 95
+          },
+          "vagas": [
+            {
+              "numero": 243,
+              "piso": "Terreo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 96
+          },
+          "vagas": [
+            {
+              "numero": 229,
+              "piso": "Terreo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 101
+          },
+          "vagas": [
+            {
+              "numero": 47,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 102
+          },
+          "vagas": [
+            {
+              "numero": 165,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 103
+          },
+          "vagas": [
+            {
+              "numero": 239,
+              "piso": "Terreo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 104
+          },
+          "vagas": [
+            {
+              "numero": 3,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 105
+          },
+          "vagas": [
+            {
+              "numero": 38,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 106
+          },
+          "vagas": [
+            {
+              "numero": 225,
+              "piso": "Terreo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 111
+          },
+          "vagas": [
+            {
+              "numero": 73,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 72,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 112
+          },
+          "vagas": [
+            {
+              "numero": 241,
+              "piso": "Terreo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 113
+          },
+          "vagas": [
+            {
+              "numero": 30,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 29,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 114
+          },
+          "vagas": [
+            {
+              "numero": 2,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 1,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 115
+          },
+          "vagas": [
+            {
+              "numero": 136,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 116
+          },
+          "vagas": [
+            {
+              "numero": 160,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 159,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 121
+          },
+          "vagas": [
+            {
+              "numero": 127,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 128,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 122
+          },
+          "vagas": [
+            {
+              "numero": 41,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 123
+          },
+          "vagas": [
+            {
+              "numero": 81,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 80,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 124
+          },
+          "vagas": [
+            {
+              "numero": 16,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 15,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 125
+          },
+          "vagas": [
+            {
+              "numero": 182,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 126
+          },
+          "vagas": [
+            {
+              "numero": 14,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 13,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 131
+          },
+          "vagas": [
+            {
+              "numero": 63,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 62,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 132
+          },
+          "vagas": [
+            {
+              "numero": 205,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 133
+          },
+          "vagas": [
+            {
+              "numero": 94,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 95,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 134
+          },
+          "vagas": [
+            {
+              "numero": 184,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 183,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 135
+          },
+          "vagas": [
+            {
+              "numero": 226,
+              "piso": "Terreo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 136
+          },
+          "vagas": [
+            {
+              "numero": 69,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 68,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 141
+          },
+          "vagas": [
+            {
+              "numero": 171,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 172,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 142
+          },
+          "vagas": [
+            {
+              "numero": 203,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 143
+          },
+          "vagas": [
+            {
+              "numero": 18,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 17,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 144
+          },
+          "vagas": [
+            {
+              "numero": 93,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 92,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 145
+          },
+          "vagas": [
+            {
+              "numero": 131,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 146
+          },
+          "vagas": [
+            {
+              "numero": 220,
+              "piso": "Terreo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 219,
+              "piso": "Terreo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 151
+          },
+          "vagas": [
+            {
+              "numero": 21,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 22,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 152
+          },
+          "vagas": [
+            {
+              "numero": 192,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 153
+          },
+          "vagas": [
+            {
+              "numero": 65,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 64,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 154
+          },
+          "vagas": [
+            {
+              "numero": 139,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 140,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 155
+          },
+          "vagas": [
+            {
+              "numero": 138,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 156
+          },
+          "vagas": [
+            {
+              "numero": 51,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 50,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 161
+          },
+          "vagas": [
+            {
+              "numero": 25,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 26,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 162
+          },
+          "vagas": [
+            {
+              "numero": 164,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 163
+          },
+          "vagas": [
+            {
+              "numero": 49,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 48,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 164
+          },
+          "vagas": [
+            {
+              "numero": 116,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 115,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 165
+          },
+          "vagas": [
+            {
+              "numero": 114,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 166
+          },
+          "vagas": [
+            {
+              "numero": 88,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 89,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 171
+          },
+          "vagas": [
+            {
+              "numero": 224,
+              "piso": "Terreo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 223,
+              "piso": "Terreo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 172
+          },
+          "vagas": [
+            {
+              "numero": 135,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 173
+          },
+          "vagas": [
+            {
+              "numero": 56,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 57,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 174
+          },
+          "vagas": [
+            {
+              "numero": 173,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 174,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 175
+          },
+          "vagas": [
+            {
+              "numero": 12,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 176
+          },
+          "vagas": [
+            {
+              "numero": 147,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 148,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 181
+          },
+          "vagas": [
+            {
+              "numero": 28,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 27,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 182
+          },
+          "vagas": [
+            {
+              "numero": 9,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 183
+          },
+          "vagas": [
+            {
+              "numero": 126,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 125,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 184
+          },
+          "vagas": [
+            {
+              "numero": 20,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 19,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 185
+          },
+          "vagas": [
+            {
+              "numero": 110,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 186
+          },
+          "vagas": [
+            {
+              "numero": 53,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 52,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 191
+          },
+          "vagas": [
+            {
+              "numero": 61,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 60,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 192
+          },
+          "vagas": [
+            {
+              "numero": 208,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 193
+          },
+          "vagas": [
+            {
+              "numero": 122,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 121,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 194
+          },
+          "vagas": [
+            {
+              "numero": 83,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 82,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 195
+          },
+          "vagas": [
+            {
+              "numero": 109,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 196
+          },
+          "vagas": [
+            {
+              "numero": 150,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 149,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 201
+          },
+          "vagas": [
+            {
+              "numero": 35,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 36,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 202
+          },
+          "vagas": [
+            {
+              "numero": 255,
+              "piso": "Terreo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 203
+          },
+          "vagas": [
+            {
+              "numero": 202,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 201,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 204
+          },
+          "vagas": [
+            {
+              "numero": 67,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 66,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 205
+          },
+          "vagas": [
+            {
+              "numero": 46,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 206
+          },
+          "vagas": [
+            {
+              "numero": 71,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 70,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 211
+          },
+          "vagas": [
+            {
+              "numero": 112,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 111,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 212
+          },
+          "vagas": [
+            {
+              "numero": 179,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 213
+          },
+          "vagas": [
+            {
+              "numero": 209,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 210,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 214
+          },
+          "vagas": [
+            {
+              "numero": 170,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 169,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 215
+          },
+          "vagas": [
+            {
+              "numero": 4,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 216
+          },
+          "vagas": [
+            {
+              "numero": 58,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 59,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 221
+          },
+          "vagas": [
+            {
+              "numero": 188,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 187,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 222
+          },
+          "vagas": [
+            {
+              "numero": 42,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 223
+          },
+          "vagas": [
+            {
+              "numero": 77,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 76,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 224
+          },
+          "vagas": [
+            {
+              "numero": 90,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 91,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 225
+          },
+          "vagas": [
+            {
+              "numero": 11,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 226
+          },
+          "vagas": [
+            {
+              "numero": 84,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 85,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 231
+          },
+          "vagas": [
+            {
+              "numero": 221,
+              "piso": "Terreo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 222,
+              "piso": "Terreo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 232
+          },
+          "vagas": [
+            {
+              "numero": 117,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 233
+          },
+          "vagas": [
+            {
+              "numero": 162,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 161,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 234
+          },
+          "vagas": [
+            {
+              "numero": 133,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 134,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 235
+          },
+          "vagas": [
+            {
+              "numero": 156,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 236
+          },
+          "vagas": [
+            {
+              "numero": 129,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 130,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 241
+          },
+          "vagas": [
+            {
+              "numero": 185,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 186,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 242
+          },
+          "vagas": [
+            {
+              "numero": 212,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 243
+          },
+          "vagas": [
+            {
+              "numero": 8,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 7,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 244
+          },
+          "vagas": [
+            {
+              "numero": 119,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 120,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 245
+          },
+          "vagas": [
+            {
+              "numero": 175,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 246
+          },
+          "vagas": [
+            {
+              "numero": 217,
+              "piso": "Terreo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 218,
+              "piso": "Terreo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 251
+          },
+          "vagas": [
+            {
+              "numero": 213,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 214,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 252
+          },
+          "vagas": [
+            {
+              "numero": 124,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 253
+          },
+          "vagas": [
+            {
+              "numero": 177,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 178,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 254
+          },
+          "vagas": [
+            {
+              "numero": 190,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 189,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 255
+          },
+          "vagas": [
+            {
+              "numero": 137,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 256
+          },
+          "vagas": [
+            {
+              "numero": 158,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 157,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 261
+          },
+          "vagas": [
+            {
+              "numero": 215,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 216,
+              "piso": "Terreo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 262
+          },
+          "vagas": [
+            {
+              "numero": 194,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 263
+          },
+          "vagas": [
+            {
+              "numero": 55,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 54,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 264
+          },
+          "vagas": [
+            {
+              "numero": 78,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 79,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 265
+          },
+          "vagas": [
+            {
+              "numero": 237,
+              "piso": "Terreo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 266
+          },
+          "vagas": [
+            {
+              "numero": 200,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 199,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 271
+          },
+          "vagas": [
+            {
+              "numero": 86,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 87,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 272
+          },
+          "vagas": [
+            {
+              "numero": 99,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 273
+          },
+          "vagas": [
+            {
+              "numero": 75,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            },
+            {
+              "numero": 74,
+              "piso": "Subsolo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 274
+          },
+          "vagas": [
+            {
+              "numero": 142,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 141,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": false,
+            "numero": 275
+          },
+          "vagas": [
+            {
+              "numero": 228,
+              "piso": "Terreo",
+              "tipo": "Descoberta"
+            }
+          ]
+        },
+        {
+          "apartamento": {
+            "duas_vagas": true,
+            "numero": 276
+          },
+          "vagas": [
+            {
+              "numero": 143,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            },
+            {
+              "numero": 144,
+              "piso": "Subsolo",
+              "tipo": "Coberta"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

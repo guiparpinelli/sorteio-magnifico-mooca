@@ -1,0 +1,652 @@
+{
+  "apartamentos": {
+    "101": {
+      "duas_vagas": false,
+      "numero": 101
+    },
+    "102": {
+      "duas_vagas": false,
+      "numero": 102
+    },
+    "103": {
+      "duas_vagas": false,
+      "numero": 103
+    },
+    "104": {
+      "duas_vagas": false,
+      "numero": 104
+    },
+    "105": {
+      "duas_vagas": false,
+      "numero": 105
+    },
+    "106": {
+      "duas_vagas": false,
+      "numero": 106
+    },
+    "11": {
+      "duas_vagas": false,
+      "numero": 11
+    },
+    "111": {
+      "duas_vagas": true,
+      "numero": 111
+    },
+    "112": {
+      "duas_vagas": false,
+      "numero": 112
+    },
+    "113": {
+      "duas_vagas": true,
+      "numero": 113
+    },
+    "114": {
+      "duas_vagas": true,
+      "numero": 114
+    },
+    "115": {
+      "duas_vagas": false,
+      "numero": 115
+    },
+    "116": {
+      "duas_vagas": true,
+      "numero": 116
+    },
+    "12": {
+      "duas_vagas": false,
+      "numero": 12
+    },
+    "121": {
+      "duas_vagas": true,
+      "numero": 121
+    },
+    "122": {
+      "duas_vagas": false,
+      "numero": 122
+    },
+    "123": {
+      "duas_vagas": true,
+      "numero": 123
+    },
+    "124": {
+      "duas_vagas": true,
+      "numero": 124
+    },
+    "125": {
+      "duas_vagas": false,
+      "numero": 125
+    },
+    "126": {
+      "duas_vagas": true,
+      "numero": 126
+    },
+    "13": {
+      "duas_vagas": false,
+      "numero": 13
+    },
+    "131": {
+      "duas_vagas": true,
+      "numero": 131
+    },
+    "132": {
+      "duas_vagas": false,
+      "numero": 132
+    },
+    "133": {
+      "duas_vagas": true,
+      "numero": 133
+    },
+    "134": {
+      "duas_vagas": true,
+      "numero": 134
+    },
+    "135": {
+      "duas_vagas": false,
+      "numero": 135
+    },
+    "136": {
+      "duas_vagas": true,
+      "numero": 136
+    },
+    "14": {
+      "duas_vagas": false,
+      "numero": 14
+    },
+    "141": {
+      "duas_vagas": true,
+      "numero": 141
+    },
+    "142": {
+      "duas_vagas": false,
+      "numero": 142
+    },
+    "143": {
+      "duas_vagas": true,
+      "numero": 143
+    },
+    "144": {
+      "duas_vagas": true,
+      "numero": 144
+    },
+    "145": {
+      "duas_vagas": false,
+      "numero": 145
+    },
+    "146": {
+      "duas_vagas": true,
+      "numero": 146
+    },
+    "15": {
+      "duas_vagas": false,
+      "numero": 15
+    },
+    "151": {
+      "duas_vagas": true,
+      "numero": 151
+    },
+    "152": {
+      "duas_vagas": false,
+      "numero": 152
+    },
+    "153": {
+      "duas_vagas": true,
+      "numero": 153
+    },
+    "154": {
+      "duas_vagas": true,
+      "numero": 154
+    },
+    "155": {
+      "duas_vagas": false,
+      "numero": 155
+    },
+    "156": {
+      "duas_vagas": true,
+      "numero": 156
+    },
+    "16": {
+      "duas_vagas": false,
+      "numero": 16
+    },
+    "161": {
+      "duas_vagas": true,
+      "numero": 161
+    },
+    "162": {
+      "duas_vagas": false,
+      "numero": 162
+    },
+    "163": {
+      "duas_vagas": true,
+      "numero": 163
+    },
+    "164": {
+      "duas_vagas": true,
+      "numero": 164
+    },
+    "165": {
+      "duas_vagas": false,
+      "numero": 165
+    },
+    "166": {
+      "duas_vagas": true,
+      "numero": 166
+    },
+    "171": {
+      "duas_vagas": true,
+      "numero": 171
+    },
+    "172": {
+      "duas_vagas": false,
+      "numero": 172
+    },
+    "173": {
+      "duas_vagas": true,
+      "numero": 173
+    },
+    "174": {
+      "duas_vagas": true,
+      "numero": 174
+    },
+    "175": {
+      "duas_vagas": false,
+      "numero": 175
+    },
+    "176": {
+      "duas_vagas": true,
+      "numero": 176
+    },
+    "181": {
+      "duas_vagas": true,
+      "numero": 181
+    },
+    "182": {
+      "duas_vagas": false,
+      "numero": 182
+    },
+    "183": {
+      "duas_vagas": true,
+      "numero": 183
+    },
+    "184": {
+      "duas_vagas": true,
+      "numero": 184
+    },
+    "185": {
+      "duas_vagas": false,
+      "numero": 185
+    },
+    "186": {
+      "duas_vagas": true,
+      "numero": 186
+    },
+    "191": {
+      "duas_vagas": true,
+      "numero": 191
+    },
+    "192": {
+      "duas_vagas": false,
+      "numero": 192
+    },
+    "193": {
+      "duas_vagas": true,
+      "numero": 193
+    },
+    "194": {
+      "duas_vagas": true,
+      "numero": 194
+    },
+    "195": {
+      "duas_vagas": false,
+      "numero": 195
+    },
+    "196": {
+      "duas_vagas": true,
+      "numero": 196
+    },
+    "201": {
+      "duas_vagas": true,
+      "numero": 201
+    },
+    "202": {
+      "duas_vagas": false,
+      "numero": 202
+    },
+    "203": {
+      "duas_vagas": true,
+      "numero": 203
+    },
+    "204": {
+      "duas_vagas": true,
+      "numero": 204
+    },
+    "205": {
+      "duas_vagas": false,
+      "numero": 205
+    },
+    "206": {
+      "duas_vagas": true,
+      "numero": 206
+    },
+    "21": {
+      "duas_vagas": false,
+      "numero": 21
+    },
+    "211": {
+      "duas_vagas": true,
+      "numero": 211
+    },
+    "212": {
+      "duas_vagas": false,
+      "numero": 212
+    },
+    "213": {
+      "duas_vagas": true,
+      "numero": 213
+    },
+    "214": {
+      "duas_vagas": true,
+      "numero": 214
+    },
+    "215": {
+      "duas_vagas": false,
+      "numero": 215
+    },
+    "216": {
+      "duas_vagas": true,
+      "numero": 216
+    },
+    "22": {
+      "duas_vagas": false,
+      "numero": 22
+    },
+    "221": {
+      "duas_vagas": true,
+      "numero": 221
+    },
+    "222": {
+      "duas_vagas": false,
+      "numero": 222
+    },
+    "223": {
+      "duas_vagas": true,
+      "numero": 223
+    },
+    "224": {
+      "duas_vagas": true,
+      "numero": 224
+    },
+    "225": {
+      "duas_vagas": false,
+      "numero": 225
+    },
+    "226": {
+      "duas_vagas": true,
+      "numero": 226
+    },
+    "23": {
+      "duas_vagas": false,
+      "numero": 23
+    },
+    "231": {
+      "duas_vagas": true,
+      "numero": 231
+    },
+    "232": {
+      "duas_vagas": false,
+      "numero": 232
+    },
+    "233": {
+      "duas_vagas": true,
+      "numero": 233
+    },
+    "234": {
+      "duas_vagas": true,
+      "numero": 234
+    },
+    "235": {
+      "duas_vagas": false,
+      "numero": 235
+    },
+    "236": {
+      "duas_vagas": true,
+      "numero": 236
+    },
+    "24": {
+      "duas_vagas": false,
+      "numero": 24
+    },
+    "241": {
+      "duas_vagas": true,
+      "numero": 241
+    },
+    "242": {
+      "duas_vagas": false,
+      "numero": 242
+    },
+    "243": {
+      "duas_vagas": true,
+      "numero": 243
+    },
+    "244": {
+      "duas_vagas": true,
+      "numero": 244
+    },
+    "245": {
+      "duas_vagas": false,
+      "numero": 245
+    },
+    "246": {
+      "duas_vagas": true,
+      "numero": 246
+    },
+    "25": {
+      "duas_vagas": false,
+      "numero": 25
+    },
+    "251": {
+      "duas_vagas": true,
+      "numero": 251
+    },
+    "252": {
+      "duas_vagas": false,
+      "numero": 252
+    },
+    "253": {
+      "duas_vagas": true,
+      "numero": 253
+    },
+    "254": {
+      "duas_vagas": true,
+      "numero": 254
+    },
+    "255": {
+      "duas_vagas": false,
+      "numero": 255
+    },
+    "256": {
+      "duas_vagas": true,
+      "numero": 256
+    },
+    "26": {
+      "duas_vagas": false,
+      "numero": 26
+    },
+    "261": {
+      "duas_vagas": true,
+      "numero": 261
+    },
+    "262": {
+      "duas_vagas": false,
+      "numero": 262
+    },
+    "263": {
+      "duas_vagas": true,
+      "numero": 263
+    },
+    "264": {
+      "duas_vagas": true,
+      "numero": 264
+    },
+    "265": {
+      "duas_vagas": false,
+      "numero": 265
+    },
+    "266": {
+      "duas_vagas": true,
+      "numero": 266
+    },
+    "271": {
+      "duas_vagas": true,
+      "numero": 271
+    },
+    "272": {
+      "duas_vagas": false,
+      "numero": 272
+    },
+    "273": {
+      "duas_vagas": true,
+      "numero": 273
+    },
+    "274": {
+      "duas_vagas": true,
+      "numero": 274
+    },
+    "275": {
+      "duas_vagas": false,
+      "numero": 275
+    },
+    "276": {
+      "duas_vagas": true,
+      "numero": 276
+    },
+    "31": {
+      "duas_vagas": false,
+      "numero": 31
+    },
+    "32": {
+      "duas_vagas": false,
+      "numero": 32
+    },
+    "33": {
+      "duas_vagas": false,
+      "numero": 33
+    },
+    "34": {
+      "duas_vagas": false,
+      "numero": 34
+    },
+    "35": {
+      "duas_vagas": false,
+      "numero": 35
+    },
+    "36": {
+      "duas_vagas": false,
+      "numero": 36
+    },
+    "41": {
+      "duas_vagas": false,
+      "numero": 41
+    },
+    "42": {
+      "duas_vagas": false,
+      "numero": 42
+    },
+    "43": {
+      "duas_vagas": false,
+      "numero": 43
+    },
+    "44": {
+      "duas_vagas": false,
+      "numero": 44
+    },
+    "45": {
+      "duas_vagas": false,
+      "numero": 45
+    },
+    "46": {
+      "duas_vagas": false,
+      "numero": 46
+    },
+    "51": {
+      "duas_vagas": false,
+      "numero": 51
+    },
+    "52": {
+      "duas_vagas": false,
+      "numero": 52
+    },
+    "53": {
+      "duas_vagas": false,
+      "numero": 53
+    },
+    "54": {
+      "duas_vagas": false,
+      "numero": 54
+    },
+    "55": {
+      "duas_vagas": false,
+      "numero": 55
+    },
+    "56": {
+      "duas_vagas": false,
+      "numero": 56
+    },
+    "61": {
+      "duas_vagas": false,
+      "numero": 61
+    },
+    "62": {
+      "duas_vagas": false,
+      "numero": 62
+    },
+    "63": {
+      "duas_vagas": false,
+      "numero": 63
+    },
+    "64": {
+      "duas_vagas": false,
+      "numero": 64
+    },
+    "65": {
+      "duas_vagas": false,
+      "numero": 65
+    },
+    "66": {
+      "duas_vagas": false,
+      "numero": 66
+    },
+    "71": {
+      "duas_vagas": false,
+      "numero": 71
+    },
+    "72": {
+      "duas_vagas": false,
+      "numero": 72
+    },
+    "73": {
+      "duas_vagas": false,
+      "numero": 73
+    },
+    "74": {
+      "duas_vagas": false,
+      "numero": 74
+    },
+    "75": {
+      "duas_vagas": false,
+      "numero": 75
+    },
+    "76": {
+      "duas_vagas": false,
+      "numero": 76
+    },
+    "81": {
+      "duas_vagas": false,
+      "numero": 81
+    },
+    "82": {
+      "duas_vagas": false,
+      "numero": 82
+    },
+    "83": {
+      "duas_vagas": false,
+      "numero": 83
+    },
+    "84": {
+      "duas_vagas": false,
+      "numero": 84
+    },
+    "85": {
+      "duas_vagas": false,
+      "numero": 85
+    },
+    "86": {
+      "duas_vagas": false,
+      "numero": 86
+    },
+    "91": {
+      "duas_vagas": false,
+      "numero": 91
+    },
+    "92": {
+      "duas_vagas": false,
+      "numero": 92
+    },
+    "93": {
+      "duas_vagas": false,
+      "numero": 93
+    },
+    "94": {
+      "duas_vagas": false,
+      "numero": 94
+    },
+    "95": {
+      "duas_vagas": false,
+      "numero": 95
+    },
+    "96": {
+      "duas_vagas": false,
+      "numero": 96
+    }
+  }
+}
